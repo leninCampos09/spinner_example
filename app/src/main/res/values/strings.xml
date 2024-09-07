@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">spinnerss</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Español</item>
+        <item>German</item>
+    </string-array>
+</resources>
